@@ -1,2 +1,7 @@
- Online-Lab02-Task 
-Yassmin Ahmed
+This is a demo file for the Online Lab 02 Task.
+
+It demonstrates how to:
+- Create and push branches
+- Manage issues and labels
+- Use a project board
+- Create and merge pull requests
